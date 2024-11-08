@@ -1,4 +1,3 @@
 # kaggle_commonLit
 
-First silver medal in kaggle.
-My solution was based in a debertav3_large model + smaller models (roberta, debertav3_base), optuna hyper. + XGBOOST-CATBOOST-LIGHTGBM + 4FOLD
+Earned my first silver medal on Kaggle! My solution combined a DeBERTaV3-large model with additional smaller models (RoBERTa, DeBERTaV3-base) and utilized Optuna for hyperparameter optimization. I also integrated an ensemble of XGBoost, CatBoost, and LightGBM models with a 4-fold cross-validation approach.
